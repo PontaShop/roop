@@ -27,12 +27,12 @@ def clear_predictor() -> None:
 
 
 def predict_frame(target_frame: Frame) -> bool:
-    return false;
+    return False;
 
 
 def predict_image(target_path: str) -> bool:
-    return false;
+    return False;
 
 
 def predict_video(target_path: str) -> bool:
-    return false;
+    return False;
